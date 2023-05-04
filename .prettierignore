@@ -1,0 +1,16 @@
+dist
+node_modules
+**/*.svg
+**/*.sh
+
+public
+.npmr
+
+src-tauri
+
+.vscode
+
+.idea
+
+**/.idea
+
